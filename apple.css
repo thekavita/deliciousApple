@@ -1,0 +1,99 @@
+*{
+  margin: 0%;
+  padding: 0%;
+}
+body{
+  background-color:rgb(32, 221, 111);
+}
+/*Container- Section*/
+.container{
+  background-color: white;
+  margin-left: 34%;
+  margin-top: 130px;
+  height: 600px;
+  width: 650px;
+}
+.container p{
+  margin-top: 40px;
+  margin-left: 280px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: brown;
+}
+
+.container span{
+  font-size: 15px;
+  margin-left: 280px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgba(161, 40, 40, 0.479);
+
+}
+.container h2 {
+  font-size: 35px;
+  margin-left: 280px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: rgba(109, 103, 103, 0.637);
+  
+}
+#price  {
+  color: red;
+  font-size: 69px;
+  text-shadow: 2px 2px 2px;
+  
+}
+#sel1 , #sel2 {
+  color: rgb(85, 109, 109);
+  font-size: 24px;
+  text-shadow: 2px 4px 5px;
+  
+}
+/*Green Apple Section*/
+.greenapple
+{
+    margin-top: -82%;
+    margin-left: -15%;
+    background-color:rgb(98, 160, 36);
+    height: 500px;
+    width: 330px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.greenapple img:hover{
+     height: 80%;
+}
+
+.lig{
+  margin-left: 280px;
+  color: brown;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+} 
+
+/*selector Section*/
+.img-items{
+  height: 50px;
+}
+.img-items:hover{
+  height: 67px;
+  border: 1px solid rgb(131, 108, 108);
+  border-radius: 5px;
+}
+.img{
+  margin-left: 280px;
+}
+/*bottom Apple Content*/
+.imgapple{
+  margin-left: -15%;
+  background-color: white;
+  
+}
+.img-apple{
+  height: 70px;
+  width:80px;
+  
+}
+.img-apple:hover{
+  height: 80px;
+  width: 90px;
+  border: 1px solid rgb(128, 104, 104);
+  border-radius: 5px;
+}
